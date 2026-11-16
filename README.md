@@ -1,5 +1,7 @@
 # Student Management System (C++ OOP)
 
+![Project banner for Student Management System](docs/images/student-management-banner.png)
+
 A beginner C++ console project that manages student records using object-oriented
 programming and file handling.
 
