@@ -1,5 +1,7 @@
 # Student Management System (C++ OOP)
 
+[![CI](https://github.com/subhanbhatti50134-jpg/Student-Management-System-using-OOP-C-/actions/workflows/ci.yml/badge.svg)](https://github.com/subhanbhatti50134-jpg/Student-Management-System-using-OOP-C-/actions/workflows/ci.yml)
+
 ![Project banner for Student Management System](docs/images/student-management-banner.png)
 
 A beginner C++ console project that manages student records using object-oriented
